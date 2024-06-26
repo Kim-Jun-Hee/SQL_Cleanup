@@ -19,3 +19,4 @@
   
 - **3. SQL 핵심 정리?**: 📄[노트](https://www.notion.so/SQL-a300f2b33485451ba946cd7016c0cbed)
 
+![image](https://github.com/Kim-Jun-Hee/k_juni/assets/173867215/bf562be9-dfa3-48cd-b838-5b1026f6f2df)
