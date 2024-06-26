@@ -19,4 +19,4 @@
   
 - **3. SQL 핵심 정리?**: 📄[노트](https://www.notion.so/SQL-a300f2b33485451ba946cd7016c0cbed)
 
-:trollface:
+
